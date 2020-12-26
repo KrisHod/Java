@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dad97081-6931-4824-b806-6a2535fe9337" name="Default Changelist" comment="" />
+    <list default="true" id="dad97081-6931-4824-b806-6a2535fe9337" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson22/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson22/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZAXBhoTaHfMnBqa9jYvBrwiJmz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,7 +30,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GeekBrains" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -34,33 +43,7 @@
       <recent name="Lesson10" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HomeWork20">
-    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson18.Array" />
-      <module name="JavaLesson" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson18.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HomeWork (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson18.HomeWork" />
-      <module name="JavaLesson" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson18.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lesson24">
     <configuration name="HomeWork20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson20.HomeWork20" />
       <module name="JavaLesson" />
@@ -74,9 +57,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson19.Lesson19" />
+    <configuration name="Lesson24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson24.Lesson24" />
       <module name="JavaLesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson24.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson22.Test" />
+      <module name="JavaLesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson22.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson22.TestStudent" />
+      <module name="JavaLesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson22.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -96,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lesson24" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.TestStudent" />
         <item itemvalue="Application.HomeWork20" />
         <item itemvalue="Application.table" />
-        <item itemvalue="Application.Lesson19" />
-        <item itemvalue="Application.HomeWork (1)" />
-        <item itemvalue="Application.Array" />
       </list>
     </recent_temporary>
   </component>
@@ -130,6 +145,10 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="934" y="151" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1584283511979" />
+    <state x="1132" y="159" key="#com.intellij.ide.util.MemberChooser" timestamp="1589470384134">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="1132" y="159" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1589470384134" />
     <state x="1020" y="276" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1585158371890">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -154,22 +173,22 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="686" y="213" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1587131554174" />
-    <state width="1034" height="239" key="GridCell.Tab.0.bottom" timestamp="1586985306802">
+    <state width="1034" height="243" key="GridCell.Tab.0.bottom" timestamp="1590440353797">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1034" height="239" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1586985306802" />
-    <state width="1034" height="239" key="GridCell.Tab.0.center" timestamp="1586985306792">
+    <state width="1034" height="243" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1590440353797" />
+    <state width="1034" height="243" key="GridCell.Tab.0.center" timestamp="1590440353797">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1034" height="239" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1586985306792" />
-    <state width="1034" height="239" key="GridCell.Tab.0.left" timestamp="1586985306792">
+    <state width="1034" height="243" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1590440353797" />
+    <state width="1034" height="243" key="GridCell.Tab.0.left" timestamp="1590440353797">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1034" height="239" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1586985306792" />
-    <state width="1034" height="239" key="GridCell.Tab.0.right" timestamp="1586985306792">
+    <state width="1034" height="243" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1590440353797" />
+    <state width="1034" height="243" key="GridCell.Tab.0.right" timestamp="1590440353797">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1034" height="239" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1586985306792" />
+    <state width="1034" height="243" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1590440353797" />
     <state width="1864" height="321" key="GridCell.Tab.1.bottom" timestamp="1585347588823">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -194,10 +213,10 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="1053" y="281" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1584525046721" />
-    <state x="280" y="56" key="new project wizard" timestamp="1586099725841">
+    <state x="280" y="56" key="new project wizard" timestamp="1588331752025">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="280" y="56" key="new project wizard/0.0.1920.1032@0.0.1920.1032" timestamp="1586099725841" />
+    <state x="280" y="56" key="new project wizard/0.0.1920.1032@0.0.1920.1032" timestamp="1588331752025" />
     <state x="1051" y="78" key="refactoring.ChangeSignatureDialog" timestamp="1586349543221">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -206,5 +225,16 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="945" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1586184310328" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lesson22/Animal.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
